@@ -26,9 +26,9 @@ To begin with, team has decided to implement the approach described by the autho
 
 ## Rough breakdown of tasks_
 * Edward - Analysis, Visualisation
-* Nitin - Analysis, Visualisation
+* Nitin - Risk & Returns Analysis, Visualisation
 * Hemang - API integration, Develop algorithm logic, Notification, Dashboard
-* Shahadath - Visualisation, Analysis, Presentation
+* Shahadath - Visualisation, Analysis
 
 ## Findings and Summary
 
